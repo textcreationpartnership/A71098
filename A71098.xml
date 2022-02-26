@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hairy-giants, or, A description of two islands in the South Sea called by the name of Benganga and Coma discovered by Henry Schooten of Harlem in a voyage began January 1669, and finished October 1671 : also a perfect account of the religion, government, and commodities of those islands, written in Dutch by Henry Schooten ; and now Englished by P.M., Gent.</title>
+            <author>Schooten, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71098</idno>
+            <idno type="STC">Wing S888</idno>
+            <idno type="STC">ESTC R12539</idno>
+            <idno type="EEBO-CITATION">12538371</idno>
+            <idno type="OCLC">ocm 12538371</idno>
+            <idno type="VID">62902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 291:9 or 1557:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hairy-giants, or, A description of two islands in the South Sea called by the name of Benganga and Coma discovered by Henry Schooten of Harlem in a voyage began January 1669, and finished October 1671 : also a perfect account of the religion, government, and commodities of those islands, written in Dutch by Henry Schooten ; and now Englished by P.M., Gent.</title>
+                  <author>Schooten, Henry.</author>
+                  <author>P. M., Gent.</author>
+               </titleStmt>
+               <extent>[6], 16, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell for John Watson, and are to be sold by James Collins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Apparently entirely fictitious; the islands of the hairy giants are described as located off the coast of southern Chile.</note>
+                  <note>Found on reel 1557:13, the Harvard University Library copy contains the frontispiece map missing on 291:9, and also has an intact imprint.</note>
+                  <note>Imperfect: imprint cropped, and frontispiece map lacking in British Library copy.</note>
+                  <note>Reproduction of originals in British Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of South America --  Chile --  Fiction.</term>
+               <term>Magallanes (Chile : Province) --  Description and travel --  Fiction.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:62902:1"/>
+            <p>Licenſed</p>
+            <p>
+               <hi>November</hi> 27. 1671.</p>
+            <pb facs="tcp:62902:1"/>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:62902:2"/>
+            <p>
+               <figure>
+                  <figDesc>map of the islands of Benganga and Coma</figDesc>
+                  <p>
+                     <list>
+                        <item>A. The Fretum that parts the Iſlands</item>
+                        <item>B. The Towne</item>
+                        <item>C. The Leſser River</item>
+                        <item>D. The Marſh where Henry Schoten tooke poſſeſsion</item>
+                     </list>
+                  </p>
+                  <figure>
+                     <head>Cacique of Benganga.</head>
+                     <figDesc>a chief of Benganga</figDesc>
+                     <figure>
+                        <head>Vaſques de Pagna de Lyſbon.</head>
+                        <figDesc>depiction of Vasquez de Pagna</figDesc>
+                     </figure>
+                  </figure>
+                  <figure>
+                     <figDesc>compass rose</figDesc>
+                  </figure>
+                  <byline> Croſs ſculpſit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:62902:2"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:62902:3"/>
+            <pb facs="tcp:62902:3"/>
+            <p>THE Hairy-Giants: OR, A DESCRIPTION OF TWO ISLANDS in the SOUTH SEA, Called by the name of Benganga and Coma:</p>
+            <p>Diſcovered By HENRY SCHOOTEN of <hi>Harlem;</hi> In a Voyage began <hi>January</hi> 1669, and finiſhed <hi>October</hi> 1671.</p>
+            <p>Alſo, a perfect Account of the Religion, Government, and Commodities of thoſe Iſlands. Together with the Cuſtoms and Manners of the Inhabitants; which are of an extraordinary Stature, <hi>viz.</hi> Twelve foot high, or thereabouts.</p>
+            <p>Likewiſe, a Deſcription of the Compaſs and Situation of thoſe Iſlands, with their Longitude and Latitude.</p>
+            <p>Whereunto is annexed an <hi>APPENDIX</hi> for the Inſtruction of Mariners.</p>
+            <p>Written in <hi>Dutch</hi> by <hi>Henry Schooten;</hi> and now Engliſhed by <hi>P.M.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>A. Maxwell,</hi> for <hi>John Watſon,</hi> and are to be Sold by <hi>James Collins</hi> at the <hi>Kings-Arms</hi> in <hi>Ludgate-ſtreet,</hi> 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62902:4"/>
+            <pb facs="tcp:62902:4"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>IT was this Conſideration that gave birth to the Ad<g ref="char:EOLhyphen"/>venture of the Renowned <hi>Columbus,</hi> That the parts of the Earth and Sea diſcovered, made up but half the Globe: And he could not imagine that the Wiſdom of the Creator would deſign ſo vaſt a Compaſs as muſt make up the other part only for Fiſhes to inhabit <g ref="char:V">Ʋ</g>pon this principle of reaſon, which carried with it a great proba<g ref="char:EOLhyphen"/>bility of Succeſs, He firſt ſolicited <hi>Henry</hi> the Seventh of <hi>England;</hi> but being denied there, he made his Addreſs to <hi>Ferdinand</hi> King of <hi>Caſtile,</hi> who by the perſwaſion of <hi>Elizabeth</hi> his Queen ſet out a ſmall number of Ships, which after ſome Months ſailing Weſtward (not with<g ref="char:EOLhyphen"/>out the murmurings and deſpair of the Seamen) at length diſcovered an unknown, yet habitable World.
+<pb facs="tcp:62902:5"/>This Succeſs of <hi>Columbus</hi> ſounded by the Trump of Fame awakened the ſloathful and incredulous <hi>World,</hi> who before would believe nothing poſſible but what their eyes could behold, or their outward ſenſes fa<g ref="char:EOLhyphen"/>thom: The <hi>World</hi> thus awakened, and having wiped their eyes with the <hi>Gold</hi> of <hi>COLUMBINA,</hi> ſaw more clearly their former Errors: Now the <hi>Golden-Age</hi> returns again <hi>Gold</hi> is exchanged for trifles, ſuch as Knives, Hatchets, <hi>&amp;c.</hi> which were valued at ſix times their weight in Gold; and Pearls, and Diamonds bear but an equal value with glaſs: But this laſted not long; for immediately ſuch multitudes of Ships lanched out with expectations of gain, that they ſoon exhauſted the diſcovered <hi>Mines,</hi> and reduced it almoſt to an equal value with that of <hi>Europe.</hi>
+               <q xml:lang="lat">Ferme omnes ſceleratus amor nunc urget Habendi.</q>
+            </p>
+            <p>What crouding to the Weſt! with what cunning do they catch and encloſe the Wind, from what corner ſo-ever it comes, and make it ſerve their purpoſe! What prying is now into the private receſſes of <hi>Thetis!</hi> Never was more rapes committed upon the <hi>Virgin-Rivers</hi> than in this age.</p>
+            <q xml:lang="lat">
+               <l>Heu creſcit Scelerata ſitis, nulluſve petendi,</l>
+               <l>Cogendive pudor—</l>
+            </q>
+            <q xml:lang="lat">
+               <l>—Quid non Mortalia pectora cogit</l>
+               <l>Auri Sacra fames.</l>
+            </q>
+            <p>
+               <pb facs="tcp:62902:5"/>
+Several Diſcoveries was made, ſo that none loſt their labour; and ſince that time many places have been diſ<g ref="char:EOLhyphen"/>covered, and yet there remains above a fourth part undiſcovered; this gave me encouragement to take upon me this Adventure, though not without great trouble and care, ſuch as the want of many Neceſſaries for my ſelf and Seamen, which were much afflicted with a de<g ref="char:EOLhyphen"/>ſperate Sickneſs, that did deprive me of moſt of them; but I accidentally met with a veſſel that lent me ſome of her men, which gave me greater encouragement to pro<g ref="char:EOLhyphen"/>ceed in my <hi>Diſcovery,</hi> which Divine Providence did bleſs with ſucceſs; for in four days after I came out of <hi>Fretum le Mair,</hi> I diſcovered the Land, which in the following Treatiſe I give you a relation of.</p>
+            <p>I do not doubt but this Diſcovery will be beneficial to <hi>Europe</hi> many ways; firſt as it may encourage ſeveral others to proceed in the like Adventures which may happi<g ref="char:EOLhyphen"/>ly find out other Lands, and likewiſe theſe particular Iſlands may be beneficial, they being very fruitful, not over-peopled; abounding with many rich Mines, beſides Pearls and precious Stones, with many other rich Com<g ref="char:EOLhyphen"/>modities. The Inhabitants are a people very humane, witty, and intelligent, ready to receive any Inſtructions, and may be eaſily brought to Traffick.</p>
+            <p>
+               <pb facs="tcp:62902:6"/>
+If you accept of this my pains in the Diſcovery and Relation, I ſhall think my time well beſtowed, and may poſſibly by your acceptance be encouraged to make a ſecond Adventure, in the mean time</p>
+            <closer>
+               <signed>I reſt your Friend <hi>Henry Schooten.</hi>
+               </signed> 
+               <dateline>Amſterdam <date>October <hi>30. 1671.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:62902:6"/>
+            <head>A Deſcription OF THE ISLANDS OF <hi>BENGANGA</hi> and <hi>COMA.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. I.</hi> A Voyage from <hi>Amſterdam</hi> into the Southern Sea.</head>
+               <p>ON <hi>January</hi> 1, 1669, We ſet Sail from <hi>Amſterdam</hi> in the Veſſel called the <hi>Flying-Faulcon:</hi> The Deſign of our Voyage be<g ref="char:EOLhyphen"/>ing wholly Diſcovery. We made way to the <hi>Southern Sea;</hi> the twentieth of <hi>Auguſt</hi> following we came to the Streights of <hi>Magalan;</hi> and on the twenty ſixth we had a ſight of <hi>Terra del Fuega,</hi> by
+<pb n="2" facs="tcp:62902:7"/>which we Coaſted three or four days, and then left; paſſing through <hi>Fretum le Mair</hi> into the Main-Ocean called <hi>Mare del Zur:</hi> on the ſixth of <hi>September</hi> fol<g ref="char:EOLhyphen"/>lowing we took an Obſervation, and found our ſelves in the Latitude of fifty degrees fourteen mi<g ref="char:EOLhyphen"/>nutes. The Wind at Eaſt and by South; we ſailed directly before the Wind; and on the tenth of <hi>September</hi> in the Evening we diſcovered Fire, an aſſured teſtimony of ſome Land: but early in the Morning we were better c<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>firmed in our belief, being in ſight of the very Land, and within a mile or thereabouts of it: we Coaſted along ſeveral days, and could ſpy no Towns or Houſes, but diſcovered many good Ports and Promontaries. On the thir<g ref="char:EOLhyphen"/>tieth of <hi>September</hi> we diſcovered another piece of Land ſeparate from this by a River or <hi>Fretum,</hi> a League and half in breadth. We ſtill continued our Diſcovery by Coaſting along this Land likewiſe. About the Eighteenth of <hi>November</hi> following we came to the other end of the <hi>Fretum</hi> before diſco<g ref="char:EOLhyphen"/>vered, by which we knew it to be an Iſland that we had diſcovered, and by computation Judg both the Iſlands to be in Compaſs about three hundred Leagues: we ventured into this <hi>Fretum,</hi> and at our entrance, I gave it the name of <hi>Fretum del Schooten.</hi> As we paſſed along we could diſcover on the Banks, Peo<g ref="char:EOLhyphen"/>ple of an extraordinary ſize, and hairy: Having ſailed about ſeven Leagues we diſcovered a River running Eaſtward up into the firſt Iſland; into this River we ventured, and having ſailed about a mile, we diſcovered a Town (as we ſuppoſed by the great quantity of Smoak that aſcended from thence); at
+<pb n="3" facs="tcp:62902:7"/>length drawing nearer to it we eſpied Houſes, or rather Hills as they ſeemed to us by their Graſs-Coverings; before this Town we caſt Anchor, and made an Obſervation, and found our ſelves in the Latitude of fifty Degrees thirteen Minutes, South; and the Longitude Two hundred ſeventy five De<g ref="char:EOLhyphen"/>grees thirty Minutes. We had not rid at Anchor above three hours before we could eſpy a <hi>Canoo</hi> coming over to us from the Town; the reaſon of which we could not well apprehend; at length draw<g ref="char:EOLhyphen"/>ing near to us, we eſpied in it an <hi>European,</hi> as his Complexion and Habit did ſhow; he had in his hand a ſhattered torn Jack-flag, in which we might diſ<g ref="char:EOLhyphen"/>cover ſomething of the <hi>Portugal</hi> Arms: Being come to the Ship-ſide, he ſaluted us with theſe words, <hi>Dios vos guarda hermanos;</hi> which in the <hi>Portugueſe</hi> language ſignifies, <hi>God ſave you my Brethren:</hi> I then returned his Salutation in his own language, ſaying, <hi>Sea bien veni do Hermano.</hi> Welcome Brother; and invited him into the Ship: which Invitation he wil<g ref="char:EOLhyphen"/>lingly accepted, and came into the Ship; our Seamen would have taken the men in the <hi>Canoo</hi> into the Ship, but he would not ſuffer them, telling us they were Slaves, and ought not to be ſo much Countenanced: We took this <hi>Portugueſe</hi> into the great Cabin, and gave him the beſt Entertainment our Ship could afford; after three or four hours ſtay in our Ship, he took his leave, and gave us an Invitation to his Houſe, which he told us was in that Town we ſaw; and promiſed likewiſe to ſend <hi>Canoo's</hi> for the whole Ship's Com<g ref="char:EOLhyphen"/>pany, which he accordingly performed in the Mor<g ref="char:EOLhyphen"/>ning following.</p>
+               <p>
+                  <pb n="4" facs="tcp:62902:8"/>
+The Natives that Rowed in the <hi>Canoo's</hi> were all hairy, having no other Cloathing than what Nature had furniſhed them withall; and the leaſt of them by computation above Eleven foot high; by theſe Gygan<g ref="char:EOLhyphen"/>tick men, we were ſafely conducted to the Town, which conſiſted of about a thouſand Houſes, built of Timber, and covered over the top with Boughs of Trees wreathed together; and over them were placed very curiouſly Gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſads, which make their Houſes look like ſo many Hills covered with Graſs.</p>
+               <p>At length we were Conducted to this <hi>Portugueſe</hi> Houſe, who it ſeems was Governour of this Town, and <hi>Cacique,</hi> or King of that part of the Country: His Houſe was built after the ſame manner with the reſt, bur much bigger.</p>
+               <p>At the Entrance to his Houſe he received us with a great deal of Expreſſions of Joy, and conducted us into a very fair Room, where we were plentifully entertained with roaſted Veniſon, and Wine in abun<g ref="char:EOLhyphen"/>dance</p>
+               <p>Having pretty well ſatisfied our ſelves, he diſ<g ref="char:EOLhyphen"/>courſed with us concerning our Adventures, and re<g ref="char:EOLhyphen"/>lated to us the manner of his Adventures, ſince his coming from <hi>Lisbon,</hi> after this manner.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="5" facs="tcp:62902:8"/>
+               <head>
+                  <hi>SECT. II.</hi> The Adventures of <hi>Vaſques de Pagna,</hi> from the year <hi>1646,</hi> to November <hi>1670;</hi> as it was related by himſelf to <hi>Henry Schooten.</hi>
+               </head>
+               <p>I <hi>Vaſques de Pagna</hi> ſet ſail from <hi>Lisbon</hi> in the year One thouſand ſix hundred forty-ſix, upon the ſame account that you did from <hi>Amſterdam,</hi> and by accident made this Iſland: being curious in the Diſcovery, I firſt Coaſted about the two Iſlands, and then put into the <hi>Fretum,</hi> that parts the two Iſlands; and obſerving this River that runs up into the Country, I ventured into it; reſolving to venture ſo far till I could ſee either Houſes or Inhabitants; but by the neglect of my Mate, not being careful enough in ſounding the Channel, my Ship unfortu<g ref="char:EOLhyphen"/>nately ſtruck upon a Sand, and ſplit in a very ſhort time, giving us little ſpace to ſhift for our lives; in this ſtreight every Man endeavouring to ſave himſelf, my ſelf with two more got ſafe to the Shore; but of the reſt of our Company I never could hear of ſince, and therefore conclude they were all drowned. We ſought about for ſhelter from the Cold and Rain, it being about the time of the Winter-Solſtice, at which time it is rather Colder than it is with you in <hi>Europe.</hi>
+                  <pb n="6" facs="tcp:62902:9"/>At length we found a large hollow Tree, into which we entred, and ſlept for that night.</p>
+               <p>The next Morning as ſoon as we could ſee, we went to the Water-ſide to ſee whether any thing was driven a ſhore, or floated near to Land; when we came there we eſpied ſeveral pieces of our Ship floa<g ref="char:EOLhyphen"/>ting about; and walking along by the ſhore we found a Barrel of Bisket, and near to that our Jack-Flag, both which we took up and went away very joyfully towards our Arbour, where we ſecured them, and gave thanks to God for his great mercy in making ſuch Proviſion for us: Upon this Bisket we lived a<g ref="char:EOLhyphen"/>bout three Months, and ſpent our time in Prayers, and walking the Grounds near to the Tree, retreating upon the leaſt noiſe to our Harbour: In the ſecond Month one of my Companions fell ſick and died, and at three Months end my other Companion.</p>
+               <p>Now was I left in a miſerable Condition, my Com<g ref="char:EOLhyphen"/>pany dead, and my Victuals almoſt ſpent; but how<g ref="char:EOLhyphen"/>ever I comforted my ſelf with theſe thoughts, that the ſame God that hitherto had ſo plentifully provi<g ref="char:EOLhyphen"/>ded for me, would ſtill take care of me; I now reſol<g ref="char:EOLhyphen"/>ved to travel up farther into the Country, and if there were any Inhabitants (for as yet I had ſeen none) to commit my ſelf to their mercy; being thus reſolved, I thought to leave ſome Memorial behind me, that if it ſhould happen that any <hi>European</hi> ſhould light upon this place, they might know what Adventure I had made; I therefore took the Jack-Flag, and with a black-lead Pencil writ theſe Words as plain as I could, <hi>Vaſques de Pagna of Lisbon was here;</hi> and then ſecured it in a convenient place in the Tree,
+<pb n="7" facs="tcp:62902:9"/>where it might be ſecure from the injuries of weather. Then I took the remainder of the Bisket, and deſired God to proſper my Journey, and travelled into the Country.</p>
+               <p>In two days travel I diſcovered hairy people, ſuch as you ſee; at firſt I was ſomething fearful of them, but my fear was ſoon taken away, for I found them to be more fearful of me, admiring at my Clothes and Complexion; and were ready to adore me. Walking a little further, I could eſpy, as it were, a grove of Hills which were their Houſes, whoſe pleaſant Ver<g ref="char:EOLhyphen"/>dure was very delightful; being come near to the Town, I was ſurrounded with hundreds of theſe Hairy-people, admiring me, and making offers to adore me, ſuppoſing I was a god; but I did what I could to hinder them. At length it came to the King's ear, who came himſelf with ſeveral Prieſts to viſit me, and made ſigns to me to let them know what I was; firſt lifting up their eyes to Heaven, and then pointing to me, and then to the Heavens again; but I let them underſtand by the like ſigns, that I did not come immediately from Heaven, but hoped to go thither; and this I did by firſt pointing to the Earth from whence I came, and to the Heavens whe<g ref="char:EOLhyphen"/>ther I hoped to go. With which they were well ſatis<g ref="char:EOLhyphen"/>fied, and conducted me to the <hi>Caciques</hi> Houſe (for ſo they call their Kings): The <hi>Cacique</hi> telling his Prieſt (as I have been ſince informed by his Daughter my Wife) that I was of Coeleſtial Extract, and fit for no Company but the Gods and Kings. At this Palace I fared very well; and having very ſmall hopes of returning to my Country, or ſeeing any of <hi>Europe,</hi>
+                  <pb n="8" facs="tcp:62902:10"/>I thought it my beſt way to aſſure my ſelf of a Being amongſt them, and this I did by ingratiating my ſelf with the <hi>Cacique</hi>'s Daughter, whom I found very ready to receive any kindneſs from me; her Father likewiſe caſting a pleaſant aſpect on both, did give me encouragement to make ſome offers of Amours, which was kindly received, and we in a ſhort time married according to the Cuſtom of the Countrey; of which with their other Rites and Cuſtoms, I ſhall give you a full account hereafter. Being married, he gave me Two hundred Slaves, and bid me chuſe out a place in the Iſland to inha<g ref="char:EOLhyphen"/>bit, and build a Town that might be called by my Name.</p>
+               <p>Having taken my leave, I with my Wife and Slaves with ſtore of all ſorts of Proviſion, came towards this place, which I the rather made choice of, becauſe it was the place I formerly had taken poſſeſſion of; likewiſe hoping, that being near to this River, ſome <hi>European</hi> might at ſome time or o<g ref="char:EOLhyphen"/>ther happen to ſail into it, as I had done.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="9" facs="tcp:62902:10"/>
+               <head>
+                  <hi>SECT. III.</hi> A Continuation of the Relation, with the manner of the <hi>Portugueſe</hi> treat<g ref="char:EOLhyphen"/>ing us.</head>
+               <p>HAving given us this relation of his Adventure, he carried us and ſhewed us the hollow Tree they firſt lodged in, which ſtands at the entrance to his Houſe, painted with a ſort of red Paint, like to our <hi>Oker,</hi> but much brighter colour; with which Commodity that part of the Countrey doth much abound: Then he carried us, and ſhewed us the places where he formerly had buried his Companions, over whoſe Bodies he had cauſed to be erected <hi>Py<g ref="char:EOLhyphen"/>ramids,</hi> covered with Moſs, and curiouſly checker<g ref="char:EOLhyphen"/>ed with Boughs of Trees woven together croſs<g ref="char:EOLhyphen"/>wiſe. Having done this, he carried us into a ſtately large Room, whoſe Wall inſtead of Tapiſtry was bedeck't with Flowers and growing Moſs, and chec<g ref="char:EOLhyphen"/>ker'd with Boughs after the manner of the <hi>Pyramids</hi> (before mentioned); on the upper end of which, on a Seat or Bank, ſate his Lady with Four Children; his Lady was near Twelve Foot high, his Eldeſt Son, about Twenty years of age, was more than Twelve foot; his Second Son about Six<g ref="char:EOLhyphen"/>teen years of age, above Ten foot; his two Daugh<g ref="char:EOLhyphen"/>ters
+<pb n="10" facs="tcp:62902:11"/>younger, one was Nine foot, and the other Seven foot in heighth. But that which was moſt re<g ref="char:EOLhyphen"/>markable, was, that his Second Son and Eldeſt Daugh<g ref="char:EOLhyphen"/>ter were ſmooth as we are, and yet retained the Nature of the Countrey as to height.</p>
+               <p>Being pretty well ſatisfied with our entertainment and diverſions, we deſired his leave to return to our ſhip, but he would not grant it, telling us that we ſhould lye there that night; and then conducted us into another large Room, wherein was Hammocks provided for us to lye upon; here he treated us again with two or three Movyles of Wine, (which Mo<g ref="char:EOLhyphen"/>vyle contained about a Gallon); having drank up our Wine, he bid us good-night, and left us to our repoſe.</p>
+               <p>Next morning as ſoon as Sun was up, he came to us, and asked us how we ſlept, and called for a Movyle of Wine for our Morning's-draught, and cau<g ref="char:EOLhyphen"/>ſed likewiſe ſome Veniſon to be brought to us, with which having broke our faſt, he carried us to ſee his Town, and the Church which he had built. He told us, at his firſt coming to this place he was both King and Prieſt. And that he had converted his Wife, and had baptized her and all the inhabitants of the place, being all as his domeſtick Servants; but ſince, the people encreaſing, he had conſtituted other Prieſts. After this diſcourſe in the Church, we returned to his Houſe, where he gave order for a Dinner to be provided for us, in the mean time he entertained us with a farther relation of the Govern<g ref="char:EOLhyphen"/>ment and Cuſtoms of this Iſland in theſe words following.</p>
+            </div>
+            <div n="4" type="section">
+               <pb n="11" facs="tcp:62902:11"/>
+               <head>
+                  <hi>SECT. IV.</hi> Of the Government, Religion, and Cuſtoms of the Inhabitants: With the nature of the Soil, and the ſeveral Commodi<g ref="char:EOLhyphen"/>ties of the Iſland <hi>Benganga.</hi>
+               </head>
+               <p>THis Iſland wherein you are, is called by the Na<g ref="char:EOLhyphen"/>tives <hi>Benganga,</hi> Governed this thouſand years by the Family of <hi>Gangois,</hi> of which Family my Fa<g ref="char:EOLhyphen"/>ther-in-law is; who is called by the name of <hi>Conum<g ref="char:EOLhyphen"/>bro Bengangois:</hi> his chief ſeat is <hi>Cubugnello,</hi> the Town where I was Entertained and Married. He is the Ab<g ref="char:EOLhyphen"/>ſolute Monarch of the Iſland, and hath Fourty petty Kings that live about him, that do Homage, and pay Tribute to him yearly.</p>
+               <p>They worſhip in all parts of this Iſland, except mine, the Devil, who appears to them very often in a miſty cloud, uttering or mumbling out ſome words concerning his will; which if they do not punctually perform, ſome great misfortune happens, either to them or their Children ſoon after. They believe that they that live well here, and do no man any injury, and obey the Laws of the <hi>Cacique,</hi> they ſhall enjoy much happineſs after death, in pleaſant fields, behind the Hills. At three times of the year they offer Sacri<g ref="char:EOLhyphen"/>fices to their <hi>Dieu</hi> (as they call him) who appears in a
+<pb n="12" facs="tcp:62902:12"/>Cloud upon a high Mountain all the time of their Sa<g ref="char:EOLhyphen"/>crificing; and theſe Sacrifices are ſometimes Goats, and ſometime Children.</p>
+               <p>Their manner of Marriage is in this manner: The Parents of both parties being firſt agreed, the Father of the Maid brings out his Daughter to the Young<g ref="char:EOLhyphen"/>man, and they immediately upon the firſt ſight de<g ref="char:EOLhyphen"/>clare to their Patents their liking or refuſal of each other; if they declare their liking, the Father of the Damoſel in the preſence of one of their <hi>Fritazeers,</hi> or Prieſts, gives his Daughter to the Young-man, and with her gives her Dowry, which is one or more Ser<g ref="char:EOLhyphen"/>vants, according to his ability and their former agree<g ref="char:EOLhyphen"/>ment; after this the <hi>Fritazeer</hi> offers a Sacrifice to the <hi>Dieu,</hi> and the Marriage is celebrated. They are here allowed to have but one Wife; and if either die, they are not permitted to marry again: Both Men and Women here are very chaſt and temperate in meat and drink: Their Women are not ſo fruitful as in <hi>Europe,</hi> it being a rare thing for one to ſee four Children in a Family. Theft and Murder are here ſeverely puniſh<g ref="char:EOLhyphen"/>ed with cruel Tortures unto death; ſo that a ſtranger may ſafely travel in this Iſland without fear of harm, except it be from Bears which lurk in the Woods, with which this Iſland is well ſtored.</p>
+               <p>The Commodities of this Iſland are Saunders, Palm-trees, Konock a ſort of paint, Caſſanack a kind of Pults of which they make their bread; great plen<g ref="char:EOLhyphen"/>ty of Goats and Deer, Fowl of ſeveral ſorts, Fiſh in abundance, Otters and Beevers good ſtore. Here are alſo ſeveral Gold and Silver Mines, but they are not much regarded by the Inhabitants, they adorning them<g ref="char:EOLhyphen"/>ſelves
+<pb n="13" facs="tcp:62902:12"/>more with Pearl and Amber, with which this Country is well ſtored. Their Drink is Palm-Wine, which they make after this manner: They bore a hole in the tree, and put into the hole a hollow Cane, and at the end of the tap they hang a veſſel to catch the liquor: in an hours time if the Tree be any thing large, there will run out a gallon; this liquor is fit to drink preſently, and is very pleaſant and ſpiritous, intoxi<g ref="char:EOLhyphen"/>cating the brain, as ſoon as the moſt generous Wine in <hi>Europe;</hi> here are ſeveral acres of ground yearly plan<g ref="char:EOLhyphen"/>ted with theſe Trees, which ſerve for the uſe afore<g ref="char:EOLhyphen"/>ſaid. They have here a certain Tree which they call <hi>Cocotonuch,</hi> of the Bark of which they weave a Cloth which ſerves them for Hammocks and Mantles which they uſe in the Winter time; it being full as cold, or colder about <hi>June</hi> as it is in <hi>Europe</hi> in <hi>December.</hi> The people here by reaſon of their Temperance and Cha<g ref="char:EOLhyphen"/>ſtity live longer than they do in <hi>Europe;</hi> the genera<g ref="char:EOLhyphen"/>lity of them living till they are a Hundred and twenty, or a Hundred and fifty years of age: The like reaſon might be given for their extraordinary ſtature.</p>
+               <p>The Women here are very comely, and well fea<g ref="char:EOLhyphen"/>tured; their faces indifferently ſmooth, but the Men are ſo rough and hairy in the face, that they look like ſo many Iſland-ſhocks.</p>
+               <p>Thus having given you an account of the Country in general, I ſhall give a particular account of my own Juriſdiction.</p>
+            </div>
+            <div n="5" type="section">
+               <pb n="14" facs="tcp:62902:13"/>
+               <head>
+                  <hi>SECT. V.</hi> A Diſcourſe of the Government of <hi>Terra de Pagna,</hi> the particular Juriſdiction of the Portugueſe <hi>Vaſques de Pagna.</hi>
+               </head>
+               <p>THis part of the Iſland that you are now in, is called by me <hi>Terra de Pagna</hi> after my own name. My Government and Laws are of two ſorts, after the man<g ref="char:EOLhyphen"/>ner of the <hi>Europeans,</hi> viz. Eccleſiaſtical and Civil: My eldeſt Son I have made Judg in all Civil matters; and my ſecond Son in Eccleſiaſtical: The Ten Com<g ref="char:EOLhyphen"/>mandments is the rule of our Government; the Lords Prayer and Creed the rule and foundation of our De<g ref="char:EOLhyphen"/>votion: Theſe things I have taught them in their own language, and they have them ſo imprinted in their memory, that I think there is no perſon in my bounds that is above ten years of age, but will readily repeat them.</p>
+               <p>The Limits of my Juriſdiction is ten Leagues round from the River. In it are four Towns near ſo big as this, governed by Deputies.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="15" facs="tcp:62902:13"/>
+               <head>
+                  <hi>SECT. VI.</hi> A Continuation of the Relation.</head>
+               <p>HEre he was interrupted, notice being given that Dinner was ready, unto which we was conducted: Here was a noble Entertainment, with Veniſon of ſe<g ref="char:EOLhyphen"/>veral ſorts, Fowl plenty, and Wine in abundance; his Lady and Children honouring us with their Com<g ref="char:EOLhyphen"/>pany. During our ſitting at Dinner, his Lady who had learnt to ſpeak <hi>Portugueſe,</hi> made ſeveral Enquiries of us concerning <hi>Portugal</hi> and <hi>Europe;</hi> asking us if <hi>Europe</hi> was as big as this World ſhe lived in? We told her, That this place was as ſmall in compariſon of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> as this Town was to the whole Iſland of <hi>Ben<g ref="char:EOLhyphen"/>ganga.</hi> After this manner we diſcourſed, till night drawing near, put us in mind of going to our Ship; we therefore earneſtly deſired leave to depart, which the Governour very unwillingly granted, but made us promiſe that (if God would permit) we would re<g ref="char:EOLhyphen"/>turn again, or at leaſt acquaint the <hi>European</hi> World with this place, and more eſpecially his own Coun<g ref="char:EOLhyphen"/>try; deſiring them to ſend over ſome Religious men to aſſiſt him in planting the Goſpel amongſt theſe mi<g ref="char:EOLhyphen"/>ſerably deluded people.</p>
+               <p>Thus we took our leave, and came to our Ship, where we repoſed for that night, and the next mor<g ref="char:EOLhyphen"/>ning
+<pb n="16" facs="tcp:62902:14"/>weighed Anchor and hoiſed our Sails, and de<g ref="char:EOLhyphen"/>parted, ſaluting the Town with all our Guns, which we ſuppoſe put the Natives into ſome fright, not being acquainted vvith thoſe noiſes. As we paſſed along the <hi>Fretum</hi> we eſpied ſome few hairy men of the ſame ſtature with thoſe of <hi>Benganga.</hi> Paſſing by a great Marſh, where there was no danger of Ambuſh, we ventured aſhore, and ſtruck down our Ancient in to<g ref="char:EOLhyphen"/>ken of poſſeſſion, giving it the name of <hi>Coma,</hi> by reaſon of the Hairy Inhabitants. Having done this, we came again to our Ship, and in Ten Months time arrived at <hi>Amſterdam</hi> ſufficiently ſatisfied with our Diſcovery.</p>
+               <p>This is a true Relation of our Voyage and Diſco<g ref="char:EOLhyphen"/>very.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Henry Schooten,</hi> Maſter.</item>
+                        <item>
+                           <hi>Cornelius Groot.</hi> Mate.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:62902:14"/>
+            <head>An APPENDIX. The Qualifications of ſuch as under<g ref="char:EOLhyphen"/>take a Voyage for Diſcovery: With ſeveral Precepts to be obſerved by them.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. I.</hi> Of their Qualifications.</head>
+               <p>FIrſt, It is requiſite that they be men of middle age, of a good healthy Conſtitution, all their Senſes firm, and in their full vigour, that they may be able to go through any dangers or hazards that may happen to them in ſuch an uncertain Ad<g ref="char:EOLhyphen"/>adventure.</p>
+               <p n="2">
+                  <pb facs="tcp:62902:15"/>
+II. They muſt be well skill'd in the Arts of Arith<g ref="char:EOLhyphen"/>metick, Geometry, Gunnery and Fortification, Tri<g ref="char:EOLhyphen"/>gonometry, Aſtronomy, and Navigation.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECT. II.</hi> Precepts to be obſerved by ſuch as under<g ref="char:EOLhyphen"/>take theſe Adeventures.</head>
+               <p>FIrſt, Let them be provided with a good ſtrong Ship, ſtore of Proviſion, Weapons defenſive and offenſive, with a ſufficient quantity of Ammunition, and convenient Inſtruments for proſpection and ob<g ref="char:EOLhyphen"/>ſervation.</p>
+               <p n="2">II. Let the Seamen be healthy, ſtout, reſolute Blades, ſuch as are reſolved againſt all dangers that may happen.</p>
+               <p n="3">III. Let them be very curious in their Obſervati<g ref="char:EOLhyphen"/>ons, and calculate the Longitude and Latitude of all places they touch at.</p>
+               <p n="4">IV. Let them keep their Journal-book exactly; truly and faithfully recording all the paſſages of the Voyage, as the ſeveral changings of the Wind; the rumbs and diſtance of ſailing upon thoſe rumbs; the true ſounding of the Channels in thoſe Harbours they enter, and what rocks or ſands they meet with, giving ſome neceſſary rules and cautions for ſhunning thoſe dangers.</p>
+               <p n="5">V. Let them carefully obſerve the variation of the Compaſs, with the Currents, and trade-Winds.</p>
+               <p n="6">
+                  <pb facs="tcp:62902:15"/>
+VI. Let them uſe their utmoſt endeavour to un<g ref="char:EOLhyphen"/>derſtand the Religion, Cuſtoms, Manners, and Com<g ref="char:EOLhyphen"/>modities, with the Inclinations of the Inhabitants, and commit it to writing, that they may give a true acccount of them when they return home.</p>
+               <p n="7">VII. Let them be curious in obſerving the Clouds; by the clearneſs of them whereof, they may know when they draw near to land: for by their paſſing over the land, wanting a ſupply of Vapours, the Clouds become more white and clear, as <hi>Columbus</hi> obſerved and ex<g ref="char:EOLhyphen"/>perienced.</p>
+               <p n="8">VIII. "When in the day-time they obſerve the Clouds gathering together in heaps near the Hori<g ref="char:EOLhyphen"/>zon, looking blew, and a ſection appear on that part of the Hemiſphere, or by night diſcover fire, they may be certain they are approaching to land.</p>
+               <p n="9">IX. When they come near to the land, let them firſt coaſt along by it, and curiouſly obſerve the Creeks and Harbours, their manner of bearing, with their forms or figures.</p>
+               <p n="10">X. When they have coaſted ſo long that they are ſufficiently ſatisfied of the figure and ſituation of the place, and have found out a convenient River, either broad enough to ſecure them from any attempt the Natives may make upon them from ſhore; or elſe whoſe banks are diſtant from Woods or other Am<g ref="char:EOLhyphen"/>buſheado's.</p>
+               <p n="11">XL. When they find an opportunity to venture a<g ref="char:EOLhyphen"/>ſhore, let them go well armed, that they may awe the Natives; who when they ſee their ſtore, or bon<g ref="char:EOLhyphen"/>pointed arrows do not pierce them, as they do their own Country-men, will be ready to offer divine ado<g ref="char:EOLhyphen"/>ration
+<pb facs="tcp:62902:16"/>to them; but let them be very prudent in this caſe; neither abſolutely hindering it, yet modeſtly denying ſuch adoration, by pointing to the heavens, letting them know there they ought to pay their devotion; for by abſolutely hindring their Adoration, they thinking you to be men, will make other attempts upon you, as the <hi>Indians</hi> did upon the <hi>Spaniards</hi> at their firſt coming thither, by holding them ſo long under water till they were confirmed they were mortal.</p>
+               <p n="12">XII. Let them be very careful when they are per<g ref="char:EOLhyphen"/>mitted to traffick, and live quietly amongſt the Na<g ref="char:EOLhyphen"/>tives, that they ſhew good examples to them by their good lives and converſations; let them be juſt in all their dealings, punctual to their promiſe, and civil to the Natives in general.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62902:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
